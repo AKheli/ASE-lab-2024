@@ -88,7 +88,7 @@ influx v1 shell
 ___
 ## Data Querying
 
-Examples of data queries in Flux can be found on the following [page]([https://github.com/influxdata/community-templates](https://docs.influxdata.com/influxdb/cloud/query-data/flux/)).
+Examples of data queries in Flux can be found on the following [page](https://docs.influxdata.com/influxdb/cloud/query-data/flux/).
 
 ___
 ## Dashboard templates: 
